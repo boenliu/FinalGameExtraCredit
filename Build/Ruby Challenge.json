@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "dig3480-Tutorial-2-supplemental",
+"productVersion": "0.1",
+"dataUrl": "Ruby Challenge.data.unityweb",
+"wasmCodeUrl": "Ruby Challenge.wasm.code.unityweb",
+"wasmFrameworkUrl": "Ruby Challenge.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
